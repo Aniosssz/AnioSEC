@@ -2,8 +2,8 @@
 
 **An advanced, open-source Discord moderation bot** designed to keep your server secure and well-managed. Developed with ❤️ by [neronx1234](https://github.com/neronx1234).
 
-![Discord](https://img.shields.io/discord/1370056469743140977?label=Support%20Server&style=flat-square) 
-![GitHub stars](https://img.shields.io/github/stars/Aniosssz/AnioSEC?style=flat-square) 
+![Discord](https://img.shields.io/discord/wTWYZtZw89?label=Support%20Server&style=flat-square) 
+![GitHub stars](https://img.shields.io/github/stars/Aniosssz/AnioSEC?style=flat-square)
 ![License](https://img.shields.io/github/license/Aniosssz/AnioSEC?style=flat-square)
 
 ---
