@@ -37,7 +37,7 @@
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Node.js v18+ ([Download](https://nodejs.org))
+- Node.js v22+ ([Download](https://nodejs.org))
 - Git (optional, for developers)
 
 ### Installation
@@ -59,3 +59,7 @@ Then, run the bot!
 ```bash
 npm start
 ```
+
+
+> [!IMPORTANT]
+> This open source code may be a bit old. Because sometimes I am too lazy and sometimes I may forget to install newly added commands etc. However, feel free to open a pull request or report vulnerabilities.
