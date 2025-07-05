@@ -60,6 +60,6 @@ Then, run the bot!
 npm start
 ```
 
-<a href="//www.dmca.com/Protection/Status.aspx?ID=4810d0c5-83b6-4cc4-a0b0-5ef08ab7045c" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120d.png?ID=4810d0c5-83b6-4cc4-a0b0-5ef08ab7045c"  alt="DMCA.com Protection Status" /></a>
+<a href="https://www.dmca.com/Protection/Status.aspx?ID=4810d0c5-83b6-4cc4-a0b0-5ef08ab7045c&refurl=https://github.com/Aniosssz/AnioSEC" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120d.png?ID=4810d0c5-83b6-4cc4-a0b0-5ef08ab7045c"  alt="DMCA.com Protection Status" /></a>
 > [!IMPORTANT]
 > This open source code may be a bit old. Because sometimes I am too lazy and sometimes I may forget to install newly added commands etc. However, feel free to open a pull request or report vulnerabilities.
