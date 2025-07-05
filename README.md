@@ -2,6 +2,9 @@
 
 **An advanced, open-source Discord moderation bot** designed to keep your server secure and well-managed. Developed with ❤️ by [neronx1234](https://github.com/Aniosssz).
 
+> [!WARNING]
+> This is the beta (pre-release) version of AnioSEC and you may encounter critical bugs and vulnerabilities, please report them to us.
+
 [![Discord](https://img.shields.io/badge/discord-aniodevs-5865F2?logo=discord&logoColor=white)](https://discord.gg/wTWYZtZw89)
 ![GitHub stars](https://img.shields.io/github/stars/Aniosssz/AnioSEC?style=flat-square)
 ![License](https://img.shields.io/github/license/Aniosssz/AnioSEC?style=flat-square)
