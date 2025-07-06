@@ -1,5 +1,8 @@
 # AnioSEC 🔒
 
+> [!NOTE]
+> I'm currently working on this project, please come back later.
+
 **An advanced, open-source Discord moderation bot** designed to keep your server secure and well-managed. Developed with ❤️ by [neronx1234](https://github.com/Aniosssz).
 
 [![Discord](https://img.shields.io/badge/discord-aniodevs-5865F2?logo=discord&logoColor=white)](https://discord.gg/wTWYZtZw89)
